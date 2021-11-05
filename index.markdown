@@ -11,3 +11,6 @@ profile_picture:
 <p>
   Welcome to our site!!!
 </p>
+
+
+![b4b sticker](/assets/images/sticker.jpg)
